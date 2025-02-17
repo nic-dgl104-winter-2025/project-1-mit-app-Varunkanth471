@@ -89,12 +89,32 @@ Word_Wiz MIT App is a user-friendly app designed to help beginner and intermedia
 <img src="assets/loginblockcomponent.png" alt="screen" width="250">
 <img src="assets/mainmenublockcomponent.png" alt="screen" width="250">
 
-### Reference
+### Referevnce
 
 1. https://drive.google.com/file/d/1RhhC9aQsWEYS0Q3RJObJPcstx8lLsf7E/view - For quiz screen
 2. https://obsidiansofteducation.com/index.php/sign-up-and-login-in-screen-in-mit-app-inventor/ - For login screen
 3. https://www.youtube.com/watch?v=rhkw08U6bsg  For TinyDB
 
+
+
+## Summary Details & Development Process
+
+* The app was built using MIT App Inventor’s block-based programming environment. The process involved designing the UI with components like Labels, Buttons, and Arrangements, then wiring these components together using blocks.
+* Data for quizzes and flashcards (Tamil letters/words and their translations) was stored in global lists. Procedures like LoadQuizQuestion and LoadFlashcard.
+* Unlike traditional web coding, MIT App Inventor’s block system makes handling complex data structures tricky.
+* Instead of using CSS padding or margins, MIT App Inventor requires the use of Horizontal/Vertical Arrangements to achieve a readable layout.
+
+## Code review
+
+* Have to initialize related code into procedures (like LoadQuizQuestion, CheckAnswer, and LoadFlashcard). This makes your project easier to manage because you don’t repeat the same blocks over and over. 
+* Data Organization quiz data (questions, answers, and options) are stored in global lists.
+
+
+## Resources Used
+
+1. Youtube.
+2. MIt App Inventor tutorial.
+4. Mit App Inventore.
 
 
 
