@@ -80,3 +80,21 @@ Word_Wiz MIT App is a user-friendly app designed to help beginner and intermedia
 2. the progress tracker screen has the tinyDB function to store the value of score achieved by the user.
 
 <img src="assets/ProgressTracker.jpeg" alt="screen" width="250">
+
+### Code Block Component ScreenShots
+
+<img src="assets/quizblockcomponent.png" alt="screen" width="250">
+<img src="assets/Flashcardsblockcomponent.png" alt="screen" width="250">
+<img src="assets/Progresstrackerblockcomponent.png" alt="screen" width="250">
+<img src="assets/loginblockcomponent.png" alt="screen" width="250">
+<img src="assets/mainmenublockcomponent.png" alt="screen" width="250">
+
+### Reference
+
+1. https://drive.google.com/file/d/1RhhC9aQsWEYS0Q3RJObJPcstx8lLsf7E/view - For quiz screen
+2. https://obsidiansofteducation.com/index.php/sign-up-and-login-in-screen-in-mit-app-inventor/ - For login screen
+3. https://www.youtube.com/watch?v=rhkw08U6bsg  For TinyDB
+
+
+
+
