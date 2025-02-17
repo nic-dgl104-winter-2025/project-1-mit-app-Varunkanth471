@@ -45,6 +45,9 @@ Word_Wiz MIT App is a user-friendly app designed to help beginner and intermedia
 
 ## Welcome Screen (MainMenu)
 
-1. 
+1. A back button labeled "Home" and a "Main Menu" title, indicating this is a submenu.
+2. Three main buttons for core app features.
+3. A message guiding the user to the login page, which could be clearer and more user-friendly.
+4. A modern and clean aesthetic with a dark blue gradient and white buttons.
 
 <img src="assets/Welcome_page.jpeg" alt="Logo" width="250">
