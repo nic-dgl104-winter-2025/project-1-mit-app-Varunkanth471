@@ -40,7 +40,7 @@ Word_Wiz MIT App is a user-friendly app designed to help beginner and intermedia
 * Username: "Admin"
 * Password: "1234"
 
-<img src="assets/login_page.jpeg" alt="Logo" width="250">
+<img src="assets/login_page.jpeg" alt="screen" width="250">
 
 
 ## Welcome Screen (MainMenu)
@@ -50,4 +50,33 @@ Word_Wiz MIT App is a user-friendly app designed to help beginner and intermedia
 3. A message guiding the user to the login page, which could be clearer and more user-friendly.
 4. A modern and clean aesthetic with a dark blue gradient and white buttons.
 
-<img src="assets/Welcome_page.jpeg" alt="Logo" width="250">
+<img src="assets/Welcome_page.jpeg" alt="screen" width="250">
+
+## Quiz Screen
+
+* Click on the any option button to display to start the Quiz.
+* Select the given option for the MCQ question and it will display if the chosen answer is "correct" or "Try Again".
+
+<img src="assets/Quiz.jpeg" alt="screen" width="250">
+
+## Flashcard screen
+
+1. Click the "Next word" button for the "Text-to-speech" component to activate.
+2. You can hear the pronounce in Country "IND".
+3. The Language option is in default, had tried to change the language to "Tamil" option was unable to select and choose.
+    * The language has a default option like : "de"
+                                               "en"
+                                               "es"
+                                               "fr"
+                                               "it"   
+4. The pitch rate and Speech rate is same which is "1.0".                                               
+
+<img src="assets/Flashcard.jpeg" alt="screen" width="250">
+
+## ProgressTracker
+
+1. The progress tracker screen has the score achieved by the user.
+    (not as excepted)
+2. the progress tracker screen has the tinyDB function to store the value of score achieved by the user.
+
+<img src="assets/ProgressTracker.jpeg" alt="screen" width="250">
